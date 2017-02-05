@@ -1,0 +1,15 @@
+{
+  "name": "@claygregory/att-usage",
+  "version": "0.0.1",
+  "description": "Scraper for ATT usage data",
+  "author": "Clay Gregory <clay@claygregory.com> (https://claygregory.com/)",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^1.1.9",
+    "node-horseman": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.1"
+  }
+}
