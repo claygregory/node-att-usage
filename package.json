@@ -1,8 +1,10 @@
 {
   "name": "@claygregory/att-usage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scraper for ATT usage data",
   "author": "Clay Gregory <clay@claygregory.com> (https://claygregory.com/)",
+  "repository": "claygregory/node-att-usage",
+  "homepage": "https://github.com/claygregory/node-att-usage",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
