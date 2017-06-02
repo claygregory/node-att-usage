@@ -81,6 +81,6 @@ att_usage.currentBilledUsage('<portal username or phone number>', '<portal passw
   });
 ```
 
-##License
+## License
 
 See the included [LICENSE](LICENSE.md) for rights and limitations under the terms of the MIT license.
